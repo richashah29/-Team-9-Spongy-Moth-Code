@@ -18,18 +18,15 @@ Required MATLAB Toolboxes:
 │   ├── inverse_cost_function.m       
 │   ├── main.m            
 │   └── moth_foliage_ode.m           
-
 ├── model 2/	
 │   ├── fit_Residuals.m          
 │   ├── main.m            
 │   └── moth_foliage_ode.m 
-
 ├── model 3/
 │   ├── fit_Residuals.m         
 │   ├── lotka_volterra_ode.m 
 │   ├── main.m            
 │   └── run_model.m 
-
 ├── original_defoliation_data.csv          	
 ├── README.md              
 └── report.pdf	
