@@ -33,7 +33,7 @@ Required MATLAB Toolboxes:
 ```
 
 ## How to Run
-Once dependencies are installed (if required), each model can be downloaded independently (i.e., one folder at a time). Then, running the main.m file found in each model will produce graphical representations of predicted moth population and defoliation data. 
+Once dependencies are installed (if required), each model can be downloaded independently (i.e., one folder at a time). Then, running the ```main.m``` file found in each model will produce graphical representations of predicted moth population and defoliation data. 
 
 ## Expected Outputs
 - **Model 1**: One figure, depicting actual defoliation data, predicted moth population data, and the corresponding derived defoliation data, between 1980 and 2023. 
