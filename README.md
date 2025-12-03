@@ -5,7 +5,7 @@ _Lymantria dispar dispar_, known commonly as the spongy moth, is an invasive spe
 
 ## Dependencies
 Required MATLAB Toolboxes:
-Optimization Toolbox - for lsqnonlin and fmincon
+Optimization Toolbox - for _lsqnonlin_ and _fmincon_
 Statistics and Machine Learning Toolbox - for some utility functions
 MATLAB Base Package - for ODE solvers (ode45) and plotting
 
@@ -38,8 +38,8 @@ MATLAB Base Package - for ODE solvers (ode45) and plotting
 Once dependencies are installed (if required), each model can be downloaded independently (i.e., one folder at a time). Then, running the main.m file found in each model will produce graphical representations of predicted moth population and defoliation data. 
 
 ## Expected Outputs
-- ** Model 1**: One figure, depicting actual defoliation data, predicted moth population data, and the corresponding derived defoliation data, between 1980 and 2023. 
-- ** Model 2**: One figure, depicting actual and predicted defoliation, as well as predicted moth population from 1986-1993 (corresponding to a single outbreak). 
+- **Model 1**: One figure, depicting actual defoliation data, predicted moth population data, and the corresponding derived defoliation data, between 1980 and 2023. 
+- **Model 2**: One figure, depicting actual and predicted defoliation, as well as predicted moth population from 1986-1993 (corresponding to a single outbreak). 
 - **Model 3**: One figure depicting actual defoliation data, predicted moth population data, and the corresponding derived defoliation data, between 1980 and 2023; and a second figure depicting the same data for four individual outbreaks within that time frame.
 
 ## Issues/Limitations
