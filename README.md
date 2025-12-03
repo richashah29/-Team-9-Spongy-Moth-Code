@@ -9,7 +9,7 @@ Required MATLAB Toolboxes:
 - **Statistics and Machine Learning Toolbox** - for some utility functions
 - **MATLAB Base Package** - for ODE solvers ```ode45``` and plotting
 
-**Note**: Install of these packages is **not** required when using MATLAB online, only when local. 
+**Note**: Installation of these packages is **not** required when using MATLAB online, only when local. 
 
 ## File Structure
 ```
@@ -45,4 +45,4 @@ Models 1 and 2 have difficulty fitting to the largest outbreak (i.e., the 2018-2
 Model 3 is a simple derived L-V model, which was unable to fit the data as a whole. Each outbreak was fitted independently instead. 
 
 ## Acknowledgements
-Data obtained for this project generally come from [this report](https://www.ontario.ca/files/2024-05/mnrf-srb-forest-health-conditions-report-2023-2024-05-09.pdf). The authors of this report would like to acknowledge Seo Jeonghyeok from Geospatial Ontario and Gillian Muir from Forestry Ontario, who kindly responded to our emails and provided invaluable context.
+Data obtained for this project generally comes from [this report](https://www.ontario.ca/files/2024-05/mnrf-srb-forest-health-conditions-report-2023-2024-05-09.pdf). The authors of this report would like to acknowledge Seo Jeonghyeok from Geospatial Ontario and Gillian Muir from Forestry Ontario, who kindly responded to our emails and provided invaluable context.
