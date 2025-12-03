@@ -1,4 +1,4 @@
-# 🦋 Team 9: Modelling Lymantria dispar dispar populations from defoliation data 
+# 🦋 Team 9: Modelling _Lymantria dispar dispar_ populations from defoliation data 
 
 ## Description
 _Lymantria dispar dispar_, known commonly as the spongy moth, is an invasive species found throughout eastern North America and causes widespread defoliation on the order of thousands of hectares of host trees. This project takes in defoliation data collected in the province of Ontario over fifty years of outbreaks and, using three different models, predicts the corresponding moth population. To evaluate these models, defoliation data is then derived from population. Models each output graphical visualizations of data and the model. A full evaluation of the limitations and evolution of each model, as well as background on the context, can be found in the Report. This project was submitted as a term project for MAT292: Ordinary Differential Equations at the University of Toronto, and was jointly authored by Alice Gao, Richa Shah, Serena Suleman, and Cindy Yu.
