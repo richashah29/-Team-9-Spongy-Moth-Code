@@ -35,9 +35,9 @@ Note: Install of these packages is not required when using MATLAB online, only w
 Once dependencies are installed (if required), each model can be downloaded independently (i.e., one folder at a time). Then, running the main.m file found in each model will produce graphical representations of predicted moth population and defoliation data. 
 
 ## Expected Outputs
-Model 1: One figure, depicting actual defoliation data, predicted moth population data, and the corresponding derived defoliation data, between 1980 and 2023. 
-Model 2: One figure, depicting actual and predicted defoliation, as well as predicted moth population from 1986-1993 (corresponding to a single outbreak). 
-Model 3: One figure depicting actual defoliation data, predicted moth population data, and the corresponding derived defoliation data, between 1980 and 2023; and a second figure depicting the same data for four individual outbreaks within that time frame.
+-** Model 1**: One figure, depicting actual defoliation data, predicted moth population data, and the corresponding derived defoliation data, between 1980 and 2023. 
+-** Model 2**: One figure, depicting actual and predicted defoliation, as well as predicted moth population from 1986-1993 (corresponding to a single outbreak). 
+- **Model 3**: One figure depicting actual defoliation data, predicted moth population data, and the corresponding derived defoliation data, between 1980 and 2023; and a second figure depicting the same data for four individual outbreaks within that time frame.
 
 ## Issues/Limitations
 Models 1 and 2 have difficulty fitting to the largest outbreak (i.e., the 2018-2022 outbreak), resulting in essentially neglecting that outbreak altogether.
