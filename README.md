@@ -46,3 +46,11 @@ Model 3 is a simple derived L-V model, which was unable to fit the data as a who
 ## Acknowledgements
 Data obtained for this project generally come from this report. The authors of this report would like to acknowledge Seo Jeonghyeok from Geospatial Ontario and Gillian Muir from Forestry Ontario, who kindly responded to our emails and provided invaluable context.
 
+
+📁 Team-9-Spongy-Moth-Code/
+│
+├── 📁 model_1/                          # ODE model, modified from spruce-budworm logistic
+│   ├── 📄 moth_foliage_ode.m           # ODE function: dN/dt = r·N·(1 - N/(K·F)) - β·N²/(α² + N²), dF/dt = r_F·F·(1 - F) - γ·N·F
+│   ├── 📄 inverse_cost_function.m      # Cost function with regularization for parameter fitting
+│   ├── 📄 main.m                       # Main script for Model 1: loads data, runs optimization, plots results
+│   └── 📄 README_model1.md             # Model 1-specific documentation (optional)
