@@ -13,22 +13,22 @@ Note: Install of these packages is not required when using MATLAB online, only w
 
 ## File Structure
 📁 -Team-9-Spongy-Moth-Code/
-├── model 1/			# ODE model, modified from spruce-budworm logistic
+├── model 1/			
 │   ├── inverse_cost_function.m         
 │   ├── main.m             
 │   └── moth_foliage_ode.m            
-├── model 2/			# Adjusted model
+├── model 2/		
 │   ├── fit_Residuals.m           
 │   ├── main.m             
 │   └── moth_foliage_ode.m 
-├── model 3/			#Lotka-Volterra derived model
+├── model 3/		
 │   ├── fit_Residuals.m           
 │   ├── lotka_volterra_ode.m 
 │   ├── main.m            
 │   └── run_model.m 
-├── original_defoliation_data.csv                	# contains defoliation caused by spongy moth from 1980-2023
-├── README.md                # This file
-└── report.pdf		# the report—all background information, intentionality, project specs are found in this document
+├── original_defoliation_data.csv                	
+├── README.md               
+└── report.pdf		
 
 
 ## How to Run
