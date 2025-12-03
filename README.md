@@ -5,9 +5,9 @@ _Lymantria dispar dispar_, known commonly as the spongy moth, is an invasive spe
 
 ## Dependencies
 Required MATLAB Toolboxes:
-Optimization Toolbox - for _lsqnonlin_ and _fmincon_
-Statistics and Machine Learning Toolbox - for some utility functions
-MATLAB Base Package - for ODE solvers (ode45) and plotting
+- **Optimization Toolbox** - for _lsqnonlin_ and _fmincon_
+- **Statistics and Machine Learning Toolbox** - for some utility functions
+- **MATLAB Base Package** - for ODE solvers <ode45> and plotting
 
 **Note**: Install of these packages is **not** required when using MATLAB online, only when local. 
 
