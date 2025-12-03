@@ -12,27 +12,28 @@ Required MATLAB Toolboxes:
 **Note**: Install of these packages is **not** required when using MATLAB online, only when local. 
 
 ## File Structure
-📁 Team-9-Spongy-Moth-Code <br>
-├── **model 1**			<br>
-│   ├── inverse_cost_function.m        <br> 
-│   ├── main.m             <br>
-│   └── moth_foliage_ode.m            <br>
+```
+📁 Team-9-Spongy-Moth-Code 
+├── **model 1**			
+│   ├── inverse_cost_function.m       
+│   ├── main.m            
+│   └── moth_foliage_ode.m           
 
-├── **model 2**		<br>
+├── **model 2**		
 │   ├── fit_Residuals.m          
-│   ├── main.m            <br> 
-│   └── moth_foliage_ode.m <br>
+│   ├── main.m            
+│   └── moth_foliage_ode.m 
 
-├── **model 3**		<br>
+├── **model 3**		
 │   ├── fit_Residuals.m         
-│   ├── lotka_volterra_ode.m <br>
-│   ├── main.m            <br>
-│   └── run_model.m <br>
+│   ├── lotka_volterra_ode.m 
+│   ├── main.m            
+│   └── run_model.m 
 
-├── original_defoliation_data.csv    <br>            	
-├── README.md              <br> 
-└── report.pdf		<br>
-
+├── original_defoliation_data.csv          	
+├── README.md              
+└── report.pdf	
+```
 
 ## How to Run
 Once dependencies are installed (if required), each model can be downloaded independently (i.e., one folder at a time). Then, running the main.m file found in each model will produce graphical representations of predicted moth population and defoliation data. 
