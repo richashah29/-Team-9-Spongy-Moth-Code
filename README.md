@@ -13,18 +13,18 @@ Required MATLAB Toolboxes:
 
 ## File Structure
 ```
-📁 Team-9-Spongy-Moth-Code 
-├── **model 1**			
+-Team-9-Spongy-Moth-Code/
+├── model 1/		
 │   ├── inverse_cost_function.m       
 │   ├── main.m            
 │   └── moth_foliage_ode.m           
 
-├── **model 2**		
+├── model 2/	
 │   ├── fit_Residuals.m          
 │   ├── main.m            
 │   └── moth_foliage_ode.m 
 
-├── **model 3**		
+├── model 3/
 │   ├── fit_Residuals.m         
 │   ├── lotka_volterra_ode.m 
 │   ├── main.m            
