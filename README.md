@@ -12,17 +12,17 @@ MATLAB Base Package - for ODE solvers (ode45) and plotting
 **Note**: Install of these packages is **not** required when using MATLAB online, only when local. 
 
 ## File Structure
-Team-9-Spongy-Moth-Code <br>
+📁 Team-9-Spongy-Moth-Code <br>
 ├── model 1			<br>
 │   ├── inverse_cost_function.m        <br> 
 │   ├── main.m             <br>
 │   └── moth_foliage_ode.m            <br>
 ├── model 2		<br>
-│   ├── fit_Residuals.m    <br>       
+│   ├── fit_Residuals.m          
 │   ├── main.m            <br> 
 │   └── moth_foliage_ode.m <br>
 ├── model 3		<br>
-│   ├── fit_Residuals.m       <br>    
+│   ├── fit_Residuals.m         
 │   ├── lotka_volterra_ode.m <br>
 │   ├── main.m            <br>
 │   └── run_model.m <br>
