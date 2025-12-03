@@ -12,23 +12,23 @@ MATLAB Base Package - for ODE solvers (ode45) and plotting
 **Note**: Install of these packages is **not** required when using MATLAB online, only when local. 
 
 ## File Structure
-📁 -Team-9-Spongy-Moth-Code
-├── model 1			
-│   ├── inverse_cost_function.m         
-│   ├── main.m             
-│   └── moth_foliage_ode.m            
-├── model 2		
-│   ├── fit_Residuals.m           
-│   ├── main.m             
-│   └── moth_foliage_ode.m 
-├── model 3		
-│   ├── fit_Residuals.m           
-│   ├── lotka_volterra_ode.m 
-│   ├── main.m            
-│   └── run_model.m 
-├── original_defoliation_data.csv                	
-├── README.md               
-└── report.pdf		
+Team-9-Spongy-Moth-Code <br>
+├── model 1			<br>
+│   ├── inverse_cost_function.m        <br> 
+│   ├── main.m             <br>
+│   └── moth_foliage_ode.m            <br>
+├── model 2		<br>
+│   ├── fit_Residuals.m    <br>       
+│   ├── main.m            <br> 
+│   └── moth_foliage_ode.m <br>
+├── model 3		<br>
+│   ├── fit_Residuals.m       <br>    
+│   ├── lotka_volterra_ode.m <br>
+│   ├── main.m            <br>
+│   └── run_model.m <br>
+├── original_defoliation_data.csv    <br>            	
+├── README.md              <br> 
+└── report.pdf		<br>
 
 
 ## How to Run
@@ -45,12 +45,3 @@ Model 3 is a simple derived L-V model, which was unable to fit the data as a who
 
 ## Acknowledgements
 Data obtained for this project generally come from this report. The authors of this report would like to acknowledge Seo Jeonghyeok from Geospatial Ontario and Gillian Muir from Forestry Ontario, who kindly responded to our emails and provided invaluable context.
-
-
-📁 Team-9-Spongy-Moth-Code/
-│
-├── 📁 model_1/                          # ODE model, modified from spruce-budworm logistic
-│   ├── 📄 moth_foliage_ode.m           # ODE function: dN/dt = r·N·(1 - N/(K·F)) - β·N²/(α² + N²), dF/dt = r_F·F·(1 - F) - γ·N·F
-│   ├── 📄 inverse_cost_function.m      # Cost function with regularization for parameter fitting
-│   ├── 📄 main.m                       # Main script for Model 1: loads data, runs optimization, plots results
-│   └── 📄 README_model1.md             # Model 1-specific documentation (optional)
