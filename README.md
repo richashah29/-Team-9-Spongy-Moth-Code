@@ -1,7 +1,7 @@
 # Team 9: Modelling Lymantria dispar dispar populations from defoliation data 🦋
 
 ## Description
-Lymantria dispar dispar, known commonly as the spongy moth, is an invasive species found throughout eastern North America and causes widespread defoliation on the order of thousands of hectares of host trees. This project takes in defoliation data collected in the province of Ontario over fifty years of outbreaks and, using three different models, predicts the corresponding moth population. To evaluate these models, defoliation data is then derived from population. Models each output graphical visualizations of data and the model. A full evaluation of the limitations and evolution of each model, as well as background on the context, can be found in the Report. This project was submitted as a term project for MAT292: Ordinary Differential Equations at the University of Toronto, and was jointly authored by Alice Gao, Richa Shah, Serena Suleman, and Cindy Yu.
+_Lymantria dispar dispar_, known commonly as the spongy moth, is an invasive species found throughout eastern North America and causes widespread defoliation on the order of thousands of hectares of host trees. This project takes in defoliation data collected in the province of Ontario over fifty years of outbreaks and, using three different models, predicts the corresponding moth population. To evaluate these models, defoliation data is then derived from population. Models each output graphical visualizations of data and the model. A full evaluation of the limitations and evolution of each model, as well as background on the context, can be found in the Report. This project was submitted as a term project for MAT292: Ordinary Differential Equations at the University of Toronto, and was jointly authored by Alice Gao, Richa Shah, Serena Suleman, and Cindy Yu.
 
 ## Dependencies
 Required MATLAB Toolboxes:
@@ -9,7 +9,7 @@ Optimization Toolbox - for lsqnonlin and fmincon
 Statistics and Machine Learning Toolbox - for some utility functions
 MATLAB Base Package - for ODE solvers (ode45) and plotting
 
-Note: Install of these packages is not required when using MATLAB online, only when local. 
+**Note**: Install of these packages is **not** required when using MATLAB online, only when local. 
 
 ## File Structure
 📁 -Team-9-Spongy-Moth-Code
@@ -35,8 +35,8 @@ Note: Install of these packages is not required when using MATLAB online, only w
 Once dependencies are installed (if required), each model can be downloaded independently (i.e., one folder at a time). Then, running the main.m file found in each model will produce graphical representations of predicted moth population and defoliation data. 
 
 ## Expected Outputs
--** Model 1**: One figure, depicting actual defoliation data, predicted moth population data, and the corresponding derived defoliation data, between 1980 and 2023. 
--** Model 2**: One figure, depicting actual and predicted defoliation, as well as predicted moth population from 1986-1993 (corresponding to a single outbreak). 
+- ** Model 1**: One figure, depicting actual defoliation data, predicted moth population data, and the corresponding derived defoliation data, between 1980 and 2023. 
+- ** Model 2**: One figure, depicting actual and predicted defoliation, as well as predicted moth population from 1986-1993 (corresponding to a single outbreak). 
 - **Model 3**: One figure depicting actual defoliation data, predicted moth population data, and the corresponding derived defoliation data, between 1980 and 2023; and a second figure depicting the same data for four individual outbreaks within that time frame.
 
 ## Issues/Limitations
