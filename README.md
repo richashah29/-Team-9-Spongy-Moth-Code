@@ -45,4 +45,4 @@ Models 1 and 2 have difficulty fitting to the largest outbreak (i.e., the 2018-2
 Model 3 is a simple derived L-V model, which was unable to fit the data as a whole. Each outbreak was fitted independently instead. 
 
 ## Acknowledgements
-Data obtained for this project generally comes from [this report](https://www.ontario.ca/files/2024-05/mnrf-srb-forest-health-conditions-report-2023-2024-05-09.pdf). The authors of this report would like to acknowledge Seo Jeonghyeok from Geospatial Ontario and Gillian Muir from Forestry Ontario, who kindly responded to our emails and provided invaluable context.
+Data obtained for this project generally comes from [Ministry of Natural Resources and Forestry of Ontario](https://www.ontario.ca/files/2024-05/mnrf-srb-forest-health-conditions-report-2023-2024-05-09.pdf). We would like to acknowledge Seo Jeonghyeok from Geospatial Ontario and Gillian Muir from Forestry Ontario, who kindly responded to our emails and provided invaluable context.
