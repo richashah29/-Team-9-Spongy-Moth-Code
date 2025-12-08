@@ -26,9 +26,9 @@ Required MATLAB Toolboxes:
 │   ├── fit_Residuals.m         
 │   ├── lotka_volterra_ode.m 
 │   ├── main.m            
-│   └── run_model.m 
-├── original_defoliation_data.csv          	
-├── README.md              
+│   └── run_model.m         	
+├── README.md
+├── original_defoliation_data.csv        
 └── report.pdf	
 ```
 
