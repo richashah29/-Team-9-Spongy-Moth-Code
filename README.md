@@ -41,7 +41,7 @@ Once dependencies are installed (if required), each model can be downloaded inde
 - **Model 3**: One figure depicting actual defoliation data, predicted moth population data, and the corresponding derived defoliation data, between 1980 and 2023; and a second figure depicting the same data for four individual outbreaks within that time frame.
 
 ## Issues/Limitations
-Models 1 and 2 have difficulty fitting to the largest outbreak (i.e., the 2018-2022 outbreak), resulting in essentially neglecting that outbreak altogether.
+Models 1 and 2 have difficulty fitting to the largest outbreak (i.e., the 2018-2022 outbreak), resulting in that outbreak being essentially neglected altogether.
 Model 3 is a simple derived L-V model, which was unable to fit the data as a whole. Each outbreak was fitted independently instead. 
 
 ## Acknowledgements
